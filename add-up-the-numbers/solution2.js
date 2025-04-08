@@ -1,9 +1,10 @@
 'use strict';
 
-/** (My solution. Function that takes a number as an parameter and use while loop.
+/** My solution. Function that takes a number as an parameter,
+ * returns calculated sum and use while loop.
  *
  * @param {number} num - The number up to which the sum will be calculated.
- * @returns {number} The sum of all numbers from 1 to the provided number.
+ * @returns {number} sum - The sum of all numbers from 1 to the provided number.
  */
 
 export function addUp(num) {
