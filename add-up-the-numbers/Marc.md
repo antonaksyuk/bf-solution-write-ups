@@ -1,4 +1,4 @@
-# Marc
+# [Marc](https://edabit.com/user/6QR2QdW689ihtHjan)
 
 ```js
 function addUp(num) {
@@ -9,13 +9,12 @@ function addUp(num) {
 
 ## Strategy
 
-Marc chose the strategy of make use of "if" statement for the calculate
-of an arithmetic series.
+Marc chose the strategy of make use of "if" statement for the calculate of an
+arithmetic series.
 
 ## Implementation
 
-This implementation is not using any loop.
-Use recursion to find the last sum.
+This implementation is not using any loop. Use recursion to find the last sum.
 
 ## Possible Refactors
 
